@@ -1,2 +1,3 @@
-# coursera_data_science
-Working repo for coursera project
+## Data Science Specialization 
+
+* Uses R 
